@@ -1,4 +1,4 @@
-# Chainlink Virtual Hackathon Spring 2021
+# Filecoin Launchpad Accelerator II
 ## Omnia: Blockchain-based P2P Insurance Platform
 ### https://master.dnfhpi5eebvuf.amplifyapp.com/
 
